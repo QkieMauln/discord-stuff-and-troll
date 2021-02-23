@@ -1,5 +1,6 @@
 # Infinite Typing...
-Troll your friend by this crazy infinite Typing thing xD
+Troll your friend by this crazy infinite Typing thing xD. This will make you seems typing for a long time
+![the typing master](https://cdn.discordapp.com/attachments/782957420473352262/813685898566041650/unknown.png)
 
 ## how to use it?
 - Open your discord on browser
